@@ -17,8 +17,16 @@ function myFunction() {
 myFunction();
 
 // Explanation: 
-
+it is within its scope the parent contains the variable
 
 /* Task 2: Counter */
 
 /* Create a function called `summation` that accepts a parameter and uses a counter to return the summation of that number. For example, `summation(4)` should return 10 because 1+2+3+4 is 10. */
+function summation(num1, num2, cb){
+  return (num1, num2);
+}
+
+const add =(num1, num2)=>num1 + num2;
+
+console.log(summation(4));
+
